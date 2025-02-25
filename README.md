@@ -3,7 +3,7 @@
 Problem:
 A vending machine needs to manage different states, including "Idle", "ItemSelected", "Dispensing", and "OutOfOrder". Each state has specific rules and restrictions regarding allowed operations, and the vending machine has associated attributes like item inventory and balance.
 # UML DIAGRAM
-[image](https://github.com/VinaSolitario/statePattern/blob/main/UML%20DIAGRAM_STATEPATTERN.png)
+![image](https://github.com/VinaSolitario/statePattern/blob/main/UML%20DIAGRAM_STATEPATTERN.png)
 
 # SOURCE CODE
 ```java
